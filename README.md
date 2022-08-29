@@ -1,6 +1,6 @@
 # emodect
 
-A new Flutter project.
+Face emotions decting Flutter project.
 
 ## Getting Started
 
