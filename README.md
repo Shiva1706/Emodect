@@ -1,6 +1,6 @@
 # emodect
 
-Face emotions decting Flutter project.
+Face emotions detecting Flutter project.
 
 ## Getting Started
 
